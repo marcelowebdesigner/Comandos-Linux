@@ -20,7 +20,7 @@ Archivos
 | ls | ls | Muestra archivos en el directorio |
 | rm | rm | Elimina archivos |
 | mv | mv | Renombra archivo |
-| touch | tocuh | Crea un nuevo archivo |
+| touch | touch | Crea un nuevo archivo |
 | cp | cp | Copia archivo |
 
 Red
